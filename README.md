@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vazdiego
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python Projects
+- 👋 Hi, I’m Diego Vaz
+- 👀 I’m interested in Python, HTML5 + CSS3 and JavaScript
+- 🌱 I’m currently learning Python, HTML5 + CSS3 and JavaScript
+- 💞️ I’m looking to collaborate on Python, HTML5 + CSS3 and JavaScript Projects
 - 📫 How to reach me diegovazctrlp@gmail.com
 
 <!---
